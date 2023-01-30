@@ -6,7 +6,7 @@
 - [Description of project](#description-of-project)
 - [Visuals](#visuals)
 
-## description-of-project
+## Description of Project
 I have created a gist breaking down the components and pieces of a email address regex. This gist lists out each unique character type with description. 
 
 ## visuals 
